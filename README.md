@@ -1,4 +1,4 @@
-BaiDoXeThongMinh
+**BaiDoXeThongMinh**
 BaiDoXeThongMinh là một ứng dụng web quản lý dữ liệu xe vào-ra bãi đỗ một cách tự động. Dự án này được xây dựng bằng React.js cho phía client, và Django (Python) cho phía server.
 
 Cài đặt và Chạy
