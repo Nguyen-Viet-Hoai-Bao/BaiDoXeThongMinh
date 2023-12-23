@@ -1,12 +1,19 @@
-**BaiDoXeThongMinh**
-BaiDoXeThongMinh là một ứng dụng web quản lý dữ liệu xe vào-ra bãi đỗ một cách tự động. Dự án này được xây dựng bằng React.js cho phía client, và Django (Python) cho phía server.
+# BaiDoXeThongMinh
 
-Cài đặt và Chạy
+BaiDoXeThongMinh là một ứng dụng web quản lý dữ liệu xe vào-ra bãi đỗ một cách tự động. Dự án này được xây dựng bằng React.js cho phía client và Django (Python) cho phía server.
+
+## Cài đặt và Chạy
+
+### Client (React.js)
+
+```bash
 Client (React.js)
-Cài đặt dependencies: npm install
+# Cài đặt dependencies
+npm install
 
 Server (Django)
-Cài đặt dependencies (trong môi trường ảo hoặc global): pip install -r requirements.txt
+# Cài đặt dependencies (trong môi trường ảo hoặc global)
+pip install -r requirements.txt
 
 Chạy server: python manage.py runserver
 
